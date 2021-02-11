@@ -11,6 +11,5 @@ public class CustomerRegistrationController {
 
     @PutMapping
     public void registerNewCustomer(@RequestBody CustomerRegistrationRequest request){
-
     }
 }
